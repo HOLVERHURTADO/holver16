@@ -1,4 +1,4 @@
-const BASE_URL = '140.238.187.28:81'
+const BASE_URL = 'Http://140.238.187.28:81'
 //const BASE_URL = 'http://localhost:8080'
 function guardarInformacionCategory(){
 
